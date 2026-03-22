@@ -6,7 +6,7 @@ const Hero = () => {
       <div className="hero-bg-glow animate-fade-in delay-300"></div>
       <div className="hero-content">
         <div className="profile-img-container animate-fade-in">
-          <img src="/profile.png" alt="Vipul Kumar Singh" className="profile-img" />
+          <img src="/profile.jpg" alt="Vipul Kumar Singh" className="profile-img" />
         </div>
         <h2 className="animate-fade-in delay-100">Hi, I'm</h2>
         <h1 className="animate-fade-in delay-200">Vipul Kumar Singh</h1>
